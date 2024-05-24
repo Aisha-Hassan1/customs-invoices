@@ -61,7 +61,7 @@ To give you a visual idea of what the project looks like, here are some screensh
 ### Invoice List Page
 ![Invoice List Page](screenshots/view_invoices.PNG)
 
-### Invoice Details Page
+### Users Details Page
 ![User List Page](screenshots/view_users.PNG)
 
 
